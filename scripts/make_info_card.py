@@ -47,19 +47,19 @@ HOST = "ayan"   # shown as  ayan@github  in the header
 
 ROWS = [
     ("host",),
-    ("kv", "Now", "Full-Stack Developer · Freelance"),
-    ("kv", "Built", "Properly — fintech startup, end-to-end"),
-    ("kv", "Also", "Creative Dev · Client Projects"),
+    ("kv", "Now", "Co-Founder & MERN Dev @ PAROT"),
+    ("kv", "Focus", "Full-Stack · AI/ML · Systems"),
+    ("kv", "Edu", "B.Tech CSE @ JISCE (CGPA: 8.00)"),
     ("gap",),
     ("sec", "Stack"),
-    ("kv", "Frontend", "React, Next.js, TypeScript"),
-    ("kv", "Backend", "Node.js, Express, Postgres"),
-    ("kv", "Tools", "Git, Docker, Vercel, Figma"),
+    ("kv", "Frontend", "React, Next.js, TypeScript, Tailwind"),
+    ("kv", "Backend", "Node.js, Express, Postgres, REST"),
+    ("kv", "Tools", "Docker, Git, Bun, Vercel, PyTorch"),
     ("gap",),
     ("sec", "Highlights"),
-    ("bul", "Properly — fintech platform, full stack"),
-    ("bul", "Amusicals — creative portfolio site"),
-    ("bul", "Neoride — personal passion project"),
+    ("bul", "Nestate — Real Estate Platform"),
+    ("bul", "Cypher CLI — AI Agent on npm"),
+    ("bul", "2 Patents Filed · COMSYS 2026 Paper"),
 ]
 
 
