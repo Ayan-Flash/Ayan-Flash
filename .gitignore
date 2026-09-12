@@ -1,0 +1,9 @@
+# Local-only files
+source-prepped.png
+DIK_9656.JPG
+__pycache__/
+*.pyc
+PROMPT.md
+profile-README-template.md
+requirements-local.txt
+README_AYAN.md
