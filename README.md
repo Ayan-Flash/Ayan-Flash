@@ -142,17 +142,12 @@ I’m a passionate full-stack developer and CSE undergraduate at **JIS College o
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ayan-Flash&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=22d3ee" height="175" alt="GitHub Stats" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=Ayan-Flash&theme=dark&hide_border=true&border_radius=8" height="175" alt="GitHub Streak" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ayan-Flash&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=22d3ee" height="165" alt="GitHub Stats" />
+<img src="https://streak-stats.demolab.com/?user=Ayan-Flash&theme=dark&hide_border=true&border_radius=8" height="165" alt="GitHub Streak" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayan-Flash&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9" height="175" alt="Top Languages" />
-
-<br><br>
-
-### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=Ayan-Flash&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ayan-Flash&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9" height="165" alt="Top Languages" />
 
 </div>
 
@@ -160,11 +155,12 @@ I’m a passionate full-stack developer and CSE undergraduate at **JIS College o
 
 <div align="center">
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 
 <br><br>
 
-[![](https://visitcount.itsvg.in/api?id=Ayan-Flash&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=Ayan-Flash&color=007ec6&style=for-the-badge)
 
 </div>
+
