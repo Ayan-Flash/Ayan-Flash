@@ -1,166 +1,124 @@
-<div align="center">
+<h1 align="center">Hi there, I'm Ayan 👋</h1>
 
-<table>
-<tr>
-<td valign="top"><img src="./avi-ascii.svg" width="370" alt="ASCII portrait" /></td>
-<td valign="top"><img src="./info-card.svg" width="490" alt="Experience, stack, highlights" /></td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Security-Focused+CLI+Builder+%F0%9F%94%90;Full-Stack+Developer+%F0%9F%92%BB;AI+%2B+Cybersecurity+Enthusiast+%F0%9F%A4%96;Building+Cypher+CLI+%E2%9A%A1;Co-Founder+%40+PAROT+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
-# Ayan Ghosh
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00F4&height=200&section=header&text=Ayan%20Ghosh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CSE%20Undergrad%20%7C%20AI%20%26%20Security%20Builder&descAlignY=55" />
+</p>
 
-**Full-Stack Developer · AI/ML Explorer · Co-Founder @ PAROT**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-ayanghosh.me-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://ayanghosh.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ayan--ghosh--dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayan-ghosh-dev)
-[![GitHub](https://img.shields.io/badge/GitHub-Ayan--Flash-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayan-Flash)
-[![X](https://img.shields.io/badge/X-Sherlok009-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Sherlok009)
-[![Instagram](https://img.shields.io/badge/Instagram-ghoshayan07-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ghoshayan07)
-[![Email](https://img.shields.io/badge/Email-ghoshayan371%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghoshayan371@gmail.com)
-
-<br>
-
-<!-- animated contribution graph, refreshed daily by the workflow -->
-<img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution graph" />
-
-</div>
-
-<br>
-
-## 💫 About Me
-
-I’m a passionate full-stack developer and CSE undergraduate at **JIS College of Engineering** (CGPA: 8.00), building production web applications, exploring AI/ML systems, and crafting developer tooling. As Co-Founder & Developer at **PAROT**, I build and architect client-facing solutions end-to-end.
-
-- 🔭 **Currently Building**: Security-focused AI coding agents & full-stack SaaS systems
-- 💼 **Experience**: Co-Founder & MERN Developer @ **PAROT** (delivering production systems like *Nestate*)
-- 🎓 **Education**: B.Tech in CSE @ **JIS College of Engineering** (2023 – 2027)
-- 📜 **Research & IP**: **2 Patents** filed + **COMSYS 2026** Research Presenter (Czech Republic)
-- 🌱 **Learning & Exploring**: Autonomous Developer Agents, Generative AI & Cloud Architecture
-- 👯 **Looking to Collaborate On**: Open source tools, AI-assisted engineering & distributed systems
-- 💬 **Ask Me About**: React, Next.js, TypeScript, Node.js, Express, PostgreSQL, AI/ML
-- ⚡ **Fun Fact**: I code while listening to music!
+<p align="center">
+  <a href="https://linkedin.com/in/ayan-ghosh-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Ayan-Flash">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://parot.dev">
+    <img src="https://img.shields.io/badge/PAROT.dev-6A00F4?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🚀 Featured Projects
+### 🧠 About Me
+
+```yaml
+name: Ayan Ghosh
+role: CSE Undergraduate @ JIS College of Engineering
+focus: AI Runtimes • Cybersecurity • Full-Stack Engineering
+building: Cypher CLI — a security-focused CLI tool with an AI runtime
+co-founder: PAROT (parot.dev) — Database Management | API Development
+research: 2 patent filings • 1 international conference paper (COMSYS 2026, Czech Republic)
+status: 🎯 Actively seeking SDE roles — campus placement season
+```
+
+- 🔐 Building **Cypher CLI** — a security-first CLI with a built-in AI runtime, senior-security-engineer persona, and a strict no-silent-fix workflow
+- 🚀 Co-founded **PAROT**, a dev agency shipping real client projects
+- 📜 Holder of **2 patent filings** (Epidemic Modeling, Waste Food Management System)
+- 📄 Research presented at **COMSYS 2026** international conference, Czech Republic
+- 🌱 Currently sharpening: distributed systems, LLM-integration security
+- 💬 Ask me about: React ecosystem, AI-assisted tooling, or application security
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,nodejs,mongodb,python,java,c,cpp,git,github,vscode,linux,figma" />
+</p>
+
+---
+
+### 🚩 Featured Projects
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/Ayan-Flash/Cypher">Cypher CLI</a></h3>
-      <p><b>Security-Focused AI Coding Agent</b> published on <code>npm</code> (<code>cypher-cli</code>). Features specialized agent modes (<em>Code, Plan, Ask, Debug, Review</em>) with autonomous CI/CD execution.</p>
-      <p><code>TypeScript</code> · <code>Node.js</code> · <code>Bun</code> · <code>VS Code API</code></p>
+    <td width="50%">
+      <h3>🔐 Cypher CLI</h3>
+      <p>Security-focused CLI tool with an AI runtime — senior-security-engineer persona, strict fix workflow, and coverage across app, API, infra, supply-chain, and LLM-integration risk domains.</p>
     </td>
-    <td width="50%" valign="top">
-      <h3>🏢 Nestate</h3>
-      <p><b>Real Estate Property Management Platform</b>. Built tenant management workflows, automated financial dashboards, and OCR-based document intake; owned PostgreSQL schema and backend architecture (60–70% of core development).</p>
-      <p><code>Next.js</code> · <code>PostgreSQL</code> · <code>Express.js</code> · <code>OCR</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌾 AgroWatch</h3>
-      <p><b>AI-Powered Web App for Agriculture</b>. Empowers farmers with crop & soil disease detection via machine learning pipelines, multilingual Indian language support, and an integrated assistant chatbot.</p>
-      <p><code>Python</code> · <code>AI/ML</code> · <code>React</code> · <code>FastAPI</code></p>
-    </td>
-    <td width="50%" valign="top">
+    <td width="50%">
       <h3>🚗 Neo-Ride</h3>
-      <p><b>Unified Travel Booking Platform</b>. Unifies train, car, and flight search and scheduling into a seamless interface with end-to-end booking flow.</p>
-      <p><code>React</code> · <code>Vite</code> · <code>PostgreSQL</code> · <code>REST APIs</code></p>
+      <p>A modern travel & ride-booking application built for seamless trip planning and booking.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🌾 AgroWatch</h3>
+      <p>A tech-driven solution built to help farmers monitor and manage agricultural insights.</p>
+    </td>
+    <td width="50%">
+      <h3>🏡 Nestate</h3>
+      <p>A real-estate focused web application delivering property discovery and management features.</p>
     </td>
   </tr>
 </table>
 
----
-
-## 📜 Patents & Research
-
-- 📄 **Patent**: *“Weighted Susceptible-Infected-Recovered-Deceased Epidemic Model”* — Application No. `202431088691 A` (Filed Nov 2024)
-- 📄 **Patent**: *“Waste Food Management and Donation System using Web-Based and Mobile Application”* — Application No. `202631019667 A` (Filed Feb 2026)
-- 📑 **Research Paper**: *“HMSHIC: Concealing Mastermind Strategies in Social Networks via Removal of High-Priority Intermediate Community Connections”* — Presented at **COMSYS 2026** (7th Int'l Conference on Frontiers in Computing & Systems, Czech Republic)
+<p align="center">
+  <a href="https://github.com/Ayan-Flash?tab=repositories">
+    <img src="https://img.shields.io/badge/See%20all%20projects-00F7FF?style=for-the-badge&logo=github&logoColor=black" />
+  </a>
+</p>
 
 ---
 
-## 💻 Tech Stack
+### 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ayan-Flash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayan-Flash&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayan-Flash&theme=tokyonight&hide_border=true" />
+</p>
 
-### Frontend & UI
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink?style=for-the-badge&logo=sass&logoColor=white)
-![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radix-ui&logoColor=white)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayan-Flash&theme=tokyo-night&hide_border=true" width="90%"/>
+</p>
 
-### Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-### AI / ML & Data Science
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ayan-Flash&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
-## 📊 GitHub Analytics
+### 🏆 Recognition
 
-<div align="center">
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ayan-Flash&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=22d3ee" height="165" alt="GitHub Stats" />
-<img src="https://streak-stats.demolab.com/?user=Ayan-Flash&theme=dark&hide_border=true&border_radius=8" height="165" alt="GitHub Streak" />
-
-<br><br>
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ayan-Flash&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9" height="165" alt="Top Languages" />
-
-</div>
+| Type | Detail |
+|---|---|
+| 📄 Patent | Weighted SIRD Epidemic Model — App No. 202431088691 A |
+| 📄 Patent | Waste Food Management & Donation System — App No. 202631019667 A |
+| 🎓 Research Paper | *HMSHIC: Concealing Mastermind Strategies in Social Networks* — COMSYS 2026, Czech Republic |
 
 ---
 
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00F4,100:00F7FF&height=120&section=footer" />
+</p>
 
-### ✍️ Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
-
-<br><br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Ayan-Flash&color=007ec6&style=for-the-badge)
-
-</div>
-
+<p align="center">
+  <i>⚡ "Building secure systems, one commit at a time." ⚡</i>
+</p>
