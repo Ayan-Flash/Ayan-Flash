@@ -79,13 +79,15 @@ status: 🎯 Actively seeking SDE roles — campus placement season
 
 ### 📊 GitHub Stats & Activity
 
+> ⚠️ The cards below run on **free shared demo servers** (vercel.app / demolab.com) maintained by open-source volunteers, not by GitHub. They occasionally go blank when that shared server hits GitHub's API rate limit or pauses — it's a known, widespread issue, not something wrong with your setup. If they're blank, reload after a bit, or use the self-hosted **Rich Metrics** section further down, which never has this problem.
+
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ayan-Flash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayan-Flash&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayan-Flash&theme=tokyonight&hide_border=true&background=0D1117" />
+  <img src="https://streak-stats.demolab.com/?user=Ayan-Flash&theme=tokyonight&hide_border=true&background=0D1117" />
 </p>
 
 <p align="center">
@@ -99,6 +101,16 @@ status: 🎯 Actively seeking SDE roles — campus placement season
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ayan-Flash&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&row=1&column=6" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A00F4,100:00F7FF&height=3&section=header" width="100%"/>
+
+### 💎 Rich Metrics (self-hosted — always reliable)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ayan-Flash/Ayan-Flash/output/metrics.svg" width="100%" />
+</p>
+
+> ⚙️ This one renders **inside your own repo** via GitHub Actions instead of a shared demo server, so it never goes blank. One-time setup: add **`metrics-workflow.yml`** (provided alongside this README) to `.github/workflows/` — see setup steps below.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A00F4,100:00F7FF&height=3&section=header" width="100%"/>
 
