@@ -82,11 +82,6 @@ status: 🎯 Actively seeking SDE roles — campus placement season
 > ⚠️ The cards below run on **free shared demo servers** (vercel.app / demolab.com) maintained by open-source volunteers, not by GitHub. They occasionally go blank when that shared server hits GitHub's API rate limit or pauses — it's a known, widespread issue, not something wrong with your setup. If they're blank, reload after a bit, or use the self-hosted **Rich Metrics** section further down, which never has this problem.
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ayan-Flash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayan-Flash&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=Ayan-Flash&theme=tokyonight&hide_border=true&background=0D1117" />
 </p>
 
@@ -94,9 +89,6 @@ status: 🎯 Actively seeking SDE roles — campus placement season
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayan-Flash&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" width="95%"/>
 </p>
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/00F7FF/Ayan-Flash" width="95%" alt="Ayan-Flash's github contribution chart"/>
-</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ayan-Flash&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&row=1&column=6" />
